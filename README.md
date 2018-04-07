@@ -56,5 +56,5 @@ Tests are run via `./test.sh` (which requires `nsqd` and `nsqlookupd` to be inst
 A golang project code viewer developed by python, it has project tree view and project method calling/called tree view, and you can open the source code from the two views, so, it can help you to understand a golang project quickly.
 
 ## npm install:
-1 install nodejs
-2 shell command: curl -L https://www.npmjs.com/install.sh | sh
+- install nodejs
+- shell command: curl -L https://www.npmjs.com/install.sh | sh
